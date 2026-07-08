@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI, Data analytics and machine learning projects using Python<br><br> AI/ML projects<br><br>Improving data engineering and cloud skills<br><br>Google Cloud Platform (GCP) and Generative AI<br><br>Python, SQL, data analytics, and machine learning<br><br> I enjoy learning new technologies and solving data problems
+AI, Data analytics and machine learning projects using Python<br><br> AI/ML projects<br><br>Improving data engineering and cloud skills<br><br> AWS Cloud and Generative AI<br><br>Python, SQL, data analytics, and machine learning<br><br> I enjoy learning new technologies and solving data problems
 
 
 # 💻 Tech Stack:
